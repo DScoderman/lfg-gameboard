@@ -13,7 +13,7 @@ You should be able to simply use the app from the deployed heroku link below. If
 
 ## Usage
 
-To use the app, you can visit the [deployed heroku link](https://guarded-headland-70265.herokuapp.com/). You can on the website sign in so that you can view other forum posts for a given game, and make comments. 
+To use the app, you can visit the [deployed heroku link](https://sleepy-hollows-34843.herokuapp.com/). You can on the website sign in so that you can view other forum posts for a given game, and make comments. 
 
 The original REPO can be accessed [here](https://github.com/RWWoods/lfg-gameboard).
 
