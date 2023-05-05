@@ -2,20 +2,28 @@
 
 ## Description
 
-A forum website to allow users to connect for multiplayer games across a multitude of games!
+This is a web app that allows users to find other people to play online games with. They can search by game and use a forum interface to post and comment on other posts to get in touch with other people to complete multiplayer content.
+
+## Table of Contents (Optional)
+
+
+## Installation
+
+You should be able to simply use the app from the deployed heroku link below. If you are using the REPO, you will need to use npm - i to install dependencies and you will need to sign in to mysql in the command line, run SOURCE db/schema.sql to set up the database, then run node seeds/index.js to fill in the tables. Afterwards app should function normally when run through node server.js. (Also be sure to set up .env file with mysql user and password, and secret).
 
 ## Usage
 
-To use this app you will need to access it via the heroku link here: 
+To use the app, you can visit the [deployed heroku link](https://guarded-headland-70265.herokuapp.com/). You can on the website sign in so that you can view other forum posts for a given game, and make comments. 
 
-As this is still a WIP, click on the destiny 2 link to access the content 
+The original REPO can be accessed [here](https://github.com/RWWoods/lfg-gameboard).
+
+
 ## Credits
 
-Shoutout to RWWoods and CollyLee for working together on this with me!
+Credit to [Colin Leidy](https://github.com/CollyLee), [Ridge Woods](https://github.com/RWWoods/) for working with me on making this project happen.
+
+Also credit to Fred, our TA who stayed late after required hours to help us with route functionality. Lief, our instructor, was also an indispensible help every time we ran into major blockers, thanks again.
 
 ## License
 
-MIT
-
-## Deployed Link
-
+This project uses the standard MIT License.
